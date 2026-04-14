@@ -1,2 +1,4 @@
 
-print("Hello World")
+
+#Hello worldを出力しよう
+print("Hello world")
