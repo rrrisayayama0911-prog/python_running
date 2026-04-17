@@ -1,4 +1,4 @@
-#例外処理
+#例外処理abcは変換できません
 try:
     num=int("abc")
 except:
